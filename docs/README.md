@@ -1,6 +1,6 @@
 # 📋 Racol
 
-[![NPM version]()](https://www.npmjs.com/package/) [![NPM downloads](https://img.shields.io/npm/dm/)](https://npmjs.org/package/) [![Build Status](https://img.shields.io/travis/)](https://travis-ci.org/)
+[![NPM version]()](https://img.shields.io/npm/v/racol.svg?style=flat)(https://www.npmjs.com/package/racol) [![NPM downloads](https://img.shields.io/npm/dm/racol.svg?style=flat)](https://npmjs.org/package/racol) [![Build Status](https://img.shields.io/travis/doba/racol.svg?style=flat))]
 
 📋 Racol is a color module in node that's allows the user to create new colorscapes that fit well with any starting website, or even games needed for random color generation
 
